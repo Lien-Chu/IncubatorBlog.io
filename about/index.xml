@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on .Net Programmer Incubator</title>
-    <link>http://example.org/about/</link>
+    <link>https://lien-chu.github.io/IncubatorBlog.io/about/</link>
     <description>Recent content in Abouts on .Net Programmer Incubator</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://example.org/about/about/</link>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/about/about/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/about/</guid>
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/about/about/</guid>
       <description>My name is Lien-Chu from Taiwan.
 I am a responsible person who is easy to work with and works well independently. I am also sociable and get along well with people. I’m a fast learner, have an excellent logical understanding and strong curiosity, being pragmatic, and am not afraid of challenging problems.</description>
     </item>
