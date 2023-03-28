@@ -8,13 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/about/about/</link>
+      <title>About Blog</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/about/about_blog/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/about/about/</guid>
-      <description>My name is Lien-Chu from Taiwan.
-I am a responsible person who is easy to work with and works well independently. I am also sociable and get along well with people. I’m a fast learner, have an excellent logical understanding and strong curiosity, being pragmatic, and am not afraid of challenging problems.</description>
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/about/about_blog/</guid>
+      <description>I hope that by writing a blog, I can better understand the technologies and application methods of .NET and share them with you. This is a great plan! Here are some steps you can follow to start your journey in learning .NET and building web apps with ASP.NET Core:
+1. Install Visual Studio:
+Visual Studio is an integrated development environment (IDE) used for .NET development. You can download the latest version of Visual Studio from the official Microsoft website.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/about/about_me/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/about/about_me/</guid>
+      <description>I am a responsible person who is easy to work with and works well independently. I am also sociable and get along well with people.
+I’m a fast learner, have an excellent logical understanding and strong curiosity, being pragmatic, and am not afraid of challenging problems.</description>
     </item>
     
   </channel>

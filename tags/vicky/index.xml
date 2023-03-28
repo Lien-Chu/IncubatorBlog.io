@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vicky on .Net Programmer Incubator</title>
+    <link>https://lien-chu.github.io/IncubatorBlog.io/tags/vicky/</link>
+    <description>Recent content in Vicky on .Net Programmer Incubator</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/tags/vicky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/about/about_me/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/about/about_me/</guid>
+      <description>Vicky Kilumanga I am a responsible person who is easy to work with and works well independently. I am also sociable and get along well with people. I’m a fast learner, have an excellent logical understanding and strong curiosity, being pragmatic, and am not afraid of challenging problems.</description>
+    </item>
+    
+  </channel>
+</rss>

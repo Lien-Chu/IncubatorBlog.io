@@ -6,22 +6,13 @@
     <description>Recent content in Categories on .Net Programmer Incubator</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Development</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Tutorials</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/categories/tutorials/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/categories/golang/</guid>
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/categories/tutorials/</guid>
       <description></description>
     </item>
     

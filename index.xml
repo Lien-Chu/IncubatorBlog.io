@@ -8,58 +8,43 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating a Hello World Application by Using the ASP.NET Core!</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>The first step</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/post/first_step/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/first_step/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/about/about/</link>
+      <title>About Blog</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/about/about_blog/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/about/about/</guid>
-      <description>My name is Lien-Chu from Taiwan.
-I am a responsible person who is easy to work with and works well independently. I am also sociable and get along well with people. I’m a fast learner, have an excellent logical understanding and strong curiosity, being pragmatic, and am not afraid of challenging problems.</description>
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/about/about_blog/</guid>
+      <description>I hope that by writing a blog, I can better understand the technologies and application methods of .NET and share them with you. This is a great plan! Here are some steps you can follow to start your journey in learning .NET and building web apps with ASP.NET Core:
+1. Install Visual Studio:
+Visual Studio is an integrated development environment (IDE) used for .NET development. You can download the latest version of Visual Studio from the official Microsoft website.</description>
     </item>
     
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>About me</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/about/about_me/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/about/about_me/</guid>
+      <description>I am a responsible person who is easy to work with and works well independently. I am also sociable and get along well with people.
+I’m a fast learner, have an excellent logical understanding and strong curiosity, being pragmatic, and am not afraid of challenging problems.</description>
     </item>
     
     <item>
       <title>Getting Started</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/getting_started/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
-Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:</description>
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/getting_started/</guid>
+      <description>Install Visual Studio Go to the Visual Studio download page on the Microsoft website. The link is https://visualstudio.microsoft.com/downloads/.
+The choice of which edition to use depends on your needs and budget. If you&amp;rsquo;re an individual developer or a student, the Community edition is likely sufficient. If you&amp;rsquo;re working on a small team and need more advanced features, the Professional edition may be a better fit. And if you&amp;rsquo;re part of a large organization that needs the most advanced tools and features, the Enterprise edition is the way to go.</description>
+    </item>
+    
+    <item>
+      <title>The first appliction in Asp.Net Core</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</guid>
+      <description>Create a new project Select &amp;ldquo;File&amp;rdquo; &amp;gt; &amp;ldquo;New&amp;rdquo; &amp;gt; &amp;ldquo;Project&amp;rdquo; from the menu at the top of the screen. This will open the &amp;ldquo;New Project&amp;rdquo; window. My Image </description>
     </item>
     
   </channel>

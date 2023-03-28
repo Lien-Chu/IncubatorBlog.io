@@ -6,58 +6,49 @@
     <description>Recent content in Tags on .Net Programmer Incubator</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>development</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>.Net</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/.net/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/development/</guid>
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/.net/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>go</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Asp.Net</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/go/</guid>
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>golang</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>C#</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/c#/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/golang/</guid>
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/c#/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>getting started</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/getting-started/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/hugo/</guid>
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/getting-started/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>templates</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Visual Studio</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/visual-studio/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/themes/</guid>
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/visual-studio/</guid>
       <description></description>
     </item>
     

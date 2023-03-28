@@ -2,58 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lien-chu.github.io/IncubatorBlog.io/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lien-chu.github.io/IncubatorBlog.io/post/first_step/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://lien-chu.github.io/IncubatorBlog.io/tags/.net/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lien-chu.github.io/IncubatorBlog.io/</loc>
     <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lien-chu.github.io/IncubatorBlog.io/about/about/</loc>
+    <loc>https://lien-chu.github.io/IncubatorBlog.io/about/about_blog/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lien-chu.github.io/IncubatorBlog.io/about/about_me/</loc>
     <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lien-chu.github.io/IncubatorBlog.io/about/</loc>
     <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lien-chu.github.io/IncubatorBlog.io/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lien-chu.github.io/IncubatorBlog.io/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://lien-chu.github.io/IncubatorBlog.io/tags/c#/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lien-chu.github.io/IncubatorBlog.io/categories/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lien-chu.github.io/IncubatorBlog.io/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://lien-chu.github.io/IncubatorBlog.io/tags/getting-started/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lien-chu.github.io/IncubatorBlog.io/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://lien-chu.github.io/IncubatorBlog.io/post/getting_started/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lien-chu.github.io/IncubatorBlog.io/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lien-chu.github.io/IncubatorBlog.io/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lien-chu.github.io/IncubatorBlog.io/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lien-chu.github.io/IncubatorBlog.io/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lien-chu.github.io/IncubatorBlog.io/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://lien-chu.github.io/IncubatorBlog.io/post/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lien-chu.github.io/IncubatorBlog.io/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lien-chu.github.io/IncubatorBlog.io/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lien-chu.github.io/IncubatorBlog.io/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://lien-chu.github.io/IncubatorBlog.io/categories/tutorials/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lien-chu.github.io/IncubatorBlog.io/tags/visual-studio/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>
