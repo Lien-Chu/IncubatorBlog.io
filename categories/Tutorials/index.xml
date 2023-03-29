@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/categories/tutorials/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>The first appliction in Asp.Net Core</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</guid>
+      <description>The difference between the ASP.NET and ASP.NET MVC ASP.NET is a general-purpose web application framework, while ASP.NET MVC follows the Model-View-Controller (MVC) pattern. ASP.NET is simpler and easier to learn, while ASP.NET MVC has a more structured and testable approach.
+For beginners, ASP.NET may be more friendly as it provides a simpler and more straightforward approach to web development, while ASP.NET MVC may require a steeper learning curve due to its structured approach.</description>
+    </item>
+    
+    <item>
       <title>Getting Started</title>
       <link>https://lien-chu.github.io/IncubatorBlog.io/post/getting_started/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
@@ -15,15 +25,6 @@
       <guid>https://lien-chu.github.io/IncubatorBlog.io/post/getting_started/</guid>
       <description>Install Visual Studio Go to the Visual Studio download page on the Microsoft website. The link is https://visualstudio.microsoft.com/downloads/.
 The choice of which edition to use depends on your needs and budget. If you&amp;rsquo;re an individual developer or a student, the Community edition is likely sufficient. If you&amp;rsquo;re working on a small team and need more advanced features, the Professional edition may be a better fit. And if you&amp;rsquo;re part of a large organization that needs the most advanced tools and features, the Enterprise edition is the way to go.</description>
-    </item>
-    
-    <item>
-      <title>The first appliction in Asp.Net Core</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</guid>
-      <description>Create a new project Select &amp;ldquo;File&amp;rdquo; &amp;gt; &amp;ldquo;New&amp;rdquo; &amp;gt; &amp;ldquo;Project&amp;rdquo; from the menu at the top of the screen. This will open the &amp;ldquo;New Project&amp;rdquo; window. My Image </description>
     </item>
     
   </channel>

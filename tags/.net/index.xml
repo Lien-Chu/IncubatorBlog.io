@@ -13,7 +13,8 @@
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</guid>
-      <description>Create a new project Select &amp;ldquo;File&amp;rdquo; &amp;gt; &amp;ldquo;New&amp;rdquo; &amp;gt; &amp;ldquo;Project&amp;rdquo; from the menu at the top of the screen. This will open the &amp;ldquo;New Project&amp;rdquo; window. My Image </description>
+      <description>The difference between the ASP.NET and ASP.NET MVC ASP.NET is a general-purpose web application framework, while ASP.NET MVC follows the Model-View-Controller (MVC) pattern. ASP.NET is simpler and easier to learn, while ASP.NET MVC has a more structured and testable approach.
+For beginners, ASP.NET may be more friendly as it provides a simpler and more straightforward approach to web development, while ASP.NET MVC may require a steeper learning curve due to its structured approach.</description>
     </item>
     
   </channel>
