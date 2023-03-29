@@ -9,23 +9,13 @@
     <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Blog</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/about/about_blog/</link>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/about_blog/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/about/about_blog/</guid>
-      <description>I hope that by writing a blog, I can better understand the technologies and application methods of .NET and share them with you. This is a great plan! Here are some steps you can follow to start your journey in learning .NET and building web apps with ASP.NET Core:
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/about_blog/</guid>
+      <description>By writing a blog, I can better understand the technologies and application methods of .NET and share them with you. This is a great plan! Here are some steps you can follow to start your journey in learning .NET and building web apps with ASP.NET Core:
 1. Install Visual Studio:
 Visual Studio is an integrated development environment (IDE) used for .NET development. You can download the latest version of Visual Studio from the official Microsoft website.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/about/about_me/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/about/about_me/</guid>
-      <description>I am a responsible person who is easy to work with and works well independently. I am also sociable and get along well with people.
-I’m a fast learner, have an excellent logical understanding and strong curiosity, being pragmatic, and am not afraid of challenging problems.</description>
     </item>
     
     <item>
@@ -34,8 +24,7 @@ I’m a fast learner, have an excellent logical understanding and strong curiosi
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</guid>
-      <description>The difference between the ASP.NET and ASP.NET MVC ASP.NET is a general-purpose web application framework, while ASP.NET MVC follows the Model-View-Controller (MVC) pattern. ASP.NET is simpler and easier to learn, while ASP.NET MVC has a more structured and testable approach.
-For beginners, ASP.NET may be more friendly as it provides a simpler and more straightforward approach to web development, while ASP.NET MVC may require a steeper learning curve due to its structured approach.</description>
+      <description>Create a new project Select &amp;ldquo;File&amp;rdquo; &amp;gt; &amp;ldquo;New&amp;rdquo; &amp;gt; &amp;ldquo;Project&amp;rdquo; from the menu at the top of the screen. This will open the &amp;ldquo;New Project&amp;rdquo; window. </description>
     </item>
     
     <item>
@@ -46,6 +35,16 @@ For beginners, ASP.NET may be more friendly as it provides a simpler and more st
       <guid>https://lien-chu.github.io/IncubatorBlog.io/post/getting_started/</guid>
       <description>Install Visual Studio Go to the Visual Studio download page on the Microsoft website. The link is https://visualstudio.microsoft.com/downloads/.
 The choice of which edition to use depends on your needs and budget. If you&amp;rsquo;re an individual developer or a student, the Community edition is likely sufficient. If you&amp;rsquo;re working on a small team and need more advanced features, the Professional edition may be a better fit. And if you&amp;rsquo;re part of a large organization that needs the most advanced tools and features, the Enterprise edition is the way to go.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/about_me/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/about_me/</guid>
+      <description>I am a responsible person who is easy to work with and works well independently. I am also sociable and get along well with people.
+I’m a fast learner, have an excellent logical understanding and strong curiosity, being pragmatic, and am not afraid of challenging problems.</description>
     </item>
     
   </channel>
