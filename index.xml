@@ -37,15 +37,5 @@ Visual Studio is an integrated development environment (IDE) used for .NET devel
 The choice of which edition to use depends on your needs and budget. If you&amp;rsquo;re an individual developer or a student, the Community edition is likely sufficient. If you&amp;rsquo;re working on a small team and need more advanced features, the Professional edition may be a better fit. And if you&amp;rsquo;re part of a large organization that needs the most advanced tools and features, the Enterprise edition is the way to go.</description>
     </item>
     
-    <item>
-      <title>About me</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/about_me/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/about_me/</guid>
-      <description>I am a responsible person who is easy to work with and works well independently. I am also sociable and get along well with people.
-I’m a fast learner, have an excellent logical understanding and strong curiosity, being pragmatic, and am not afraid of challenging problems.</description>
-    </item>
-    
   </channel>
 </rss>
