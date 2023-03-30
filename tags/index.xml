@@ -6,7 +6,16 @@
     <description>Recent content in Tags on .Net Programmer Incubator</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASP.NET Core MVC</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net-core-mvc/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net-core-mvc/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>.Net</title>
       <link>https://lien-chu.github.io/IncubatorBlog.io/tags/.net/</link>

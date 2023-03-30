@@ -6,7 +6,7 @@
     <description>Recent content on .Net Programmer Incubator</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Blog</title>
       <link>https://lien-chu.github.io/IncubatorBlog.io/about_blog/</link>
@@ -19,13 +19,12 @@ Visual Studio is an integrated development environment (IDE) used for .NET devel
     </item>
     
     <item>
-      <title>The First Appliction in Asp.Net Core</title>
+      <title>My First Appliction in Asp.Net Core MVC</title>
       <link>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</guid>
-      <description>Create a new project Open Visual Studio and click on &amp;ldquo;Create a new project&amp;rdquo; from the start menu. Select the &amp;ldquo;ASP.NET Core Web App&amp;rdquo; template and click &amp;ldquo;Next&amp;rdquo;. Enter a name for your project and click &amp;ldquo;Next&amp;rdquo;. Select the &amp;ldquo;.NET 7.0(Standard Term Support)&amp;rdquo; or latest version framework and clic &amp;ldquo;Create&amp;rdquo;. The project is created and the &amp;ldquo;Solution Explorer&amp;rdquo; window is displayed.
-Write &amp;ldquo;Hello World&amp;rdquo; in the &amp;ldquo;Index.cshtml&amp;rdquo; file and debug the project.</description>
+      <description>Let&amp;rsquo;s Create our first project in Asp.Net Core MVC: Open Visual Studio and click on &amp;ldquo;Create a new project&amp;rdquo; from the start menu. Select the ASP.NET Core Web App (Model-View-Controller) template and click &amp;ldquo;Next&amp;rdquo;. Enter a name for your project and click &amp;ldquo;Next&amp;rdquo;. Select the &amp;ldquo;.NET 7.0(Standard Term Support)&amp;rdquo; or latest version framework and clic &amp;ldquo;Create&amp;rdquo;. The project is created and the &amp;ldquo;Solution Explorer&amp;rdquo; window is displayed. close the &amp;ldquo;Welcome&amp;rdquo; window and click on Index.</description>
     </item>
     
     <item>
@@ -38,6 +37,16 @@ Write &amp;ldquo;Hello World&amp;rdquo; in the &amp;ldquo;Index.cshtml&amp;rdquo
 1. The choice of which edition to use depends on your needs and budget. If you&amp;rsquo;re an individual developer or a student, the Community edition is likely sufficient.
 If you&amp;rsquo;re working on a small team and need more advanced features, the Professional edition may be a better fit.
 And if you&amp;rsquo;re part of a large organization that needs the most advanced tools and features, the Enterprise edition is the way to go.</description>
+    </item>
+    
+    <item>
+      <title>ASP.NET MVC?</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/tips/asp.net_mvc/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/tips/asp.net_mvc/</guid>
+      <description>ASP.NET Core is a web framework that can be used to build web applications and services. It provides a lot of features such as cross-platform support, high-performance, middleware, dependency injection, configuration, routing, and logging.
+On the other hand, ASP.NET Core MVC is an extension of ASP.NET Core that specifically focuses on building web applications using the Model-View-Controller (MVC) pattern. The MVC pattern is a design pattern that separates the application logic into three interconnected components: the Model (data layer), View (user interface), and Controller (application logic).</description>
     </item>
     
   </channel>
