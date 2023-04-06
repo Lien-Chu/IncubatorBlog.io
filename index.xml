@@ -24,8 +24,10 @@ Visual Studio is an integrated development environment (IDE) used for .NET devel
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lien-chu.github.io/IncubatorBlog.io/post/bootswatch/</guid>
-      <description>Now that we have our application up and running, let&amp;rsquo;s style it up with Bootswatch!
-Here are the steps you can follow to add Bootswatch to your application: Go to the Bootswatch website (https://bootswatch.com/) and choose a theme that you like. Click on the type of file button to download the CSS file for the theme. Rename the existing original file to other name. Copy the CSS file into your application&amp;rsquo;s CSS folder.</description>
+      <description>Bootswatch is a free collection of Bootstrap themes that offers a variety of easy-to-use and customizable themes for quickly adding visual style to Bootstrap websites or applications.
+Each theme comes with a CSS file and optional JavaScript files for convenience and customization.
+Bootswatch is a great way to add style and visual appeal to Bootstrap projects without spending a lot of time designing and coding from scratch.
+Now that we have our application up and running, let&amp;rsquo;s style it up with Bootswatch!</description>
     </item>
     
     <item>
