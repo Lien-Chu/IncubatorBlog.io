@@ -6,7 +6,25 @@
     <description>Recent content in Tags on .Net Programmer Incubator</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asp.net core</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net-core/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/database/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/database/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Asp.Net</title>
       <link>https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net/</link>
@@ -53,20 +71,20 @@
     </item>
     
     <item>
+      <title>C#</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/c#/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/c#/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>.Net</title>
       <link>https://lien-chu.github.io/IncubatorBlog.io/tags/.net/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/.net/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C#</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/c#/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/c#/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,7 @@
     <description>Recent content on .Net Programmer Incubator</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Blog</title>
       <link>https://lien-chu.github.io/IncubatorBlog.io/about_blog/</link>
@@ -19,33 +19,33 @@ Visual Studio is an integrated development environment (IDE) used for .NET devel
     </item>
     
     <item>
-      <title>My First Appliction in Asp.Net Core MVC</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      <title>Change Database</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/change_database/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</guid>
-      <description>Let&amp;rsquo;s Create our first project in Asp.Net Core MVC: Open Visual Studio and click on &amp;ldquo;Create a new project&amp;rdquo; from the start menu. Select the ASP.NET Core Web App (Model-View-Controller) template and click &amp;ldquo;Next&amp;rdquo;. Enter a name for your project and click &amp;ldquo;Next&amp;rdquo;. Select the &amp;ldquo;.NET 7.0(Standard Term Support)&amp;rdquo; or latest version framework and clic &amp;ldquo;Create&amp;rdquo;. The project is created and the &amp;ldquo;Solution Explorer&amp;rdquo; window is displayed. close the &amp;ldquo;Welcome&amp;rdquo; window and click on Index.</description>
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/change_database/</guid>
+      <description>Now that we have a custom registration form, we need to change the database if we want to save the data in a specific database. In this article, we will change the database created in one article to another database of ours.
+Let&amp;rsquo;s check the existing database in SQL Server Object Explorer: Go to &amp;ldquo;View&amp;rdquo; menu at the top of the screen, and click &amp;ldquo;SQL Server Object Explorer&amp;rdquo; from the dropdown menu to open SQL Server Object Explorer.</description>
     </item>
     
     <item>
-      <title>Getting Started</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/post/getting_started/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/getting_started/</guid>
-      <description>Install Visual Studio: Go to the Visual Studio download page on the Microsoft website. The link is https://visualstudio.microsoft.com/downloads/.
-1. The choice of which edition to use depends on your needs and budget. If you&amp;rsquo;re an individual developer or a student, the Community edition is likely sufficient.
-If you&amp;rsquo;re working on a small team and need more advanced features, the Professional edition may be a better fit.
-And if you&amp;rsquo;re part of a large organization that needs the most advanced tools and features, the Enterprise edition is the way to go.</description>
-    </item>
-    
-    <item>
-      <title>Register and Login</title>
+      <title>Register form</title>
       <link>https://lien-chu.github.io/IncubatorBlog.io/post/register_and_login/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lien-chu.github.io/IncubatorBlog.io/post/register_and_login/</guid>
-      <description>Let&amp;rsquo;s Create a database first register form: Right-click on &amp;ldquo;Models&amp;rdquo; and move the mouse to the &amp;ldquo;Add&amp;rdquo; button, then a new window with many options appears, click &amp;ldquo;class&amp;hellip;&amp;rdquo;. Enter a name for your new class and click &amp;ldquo;Add&amp;rdquo;. Edit new properties in the class file. Open the file &amp;ldquo;ApplicationDbContext.cs&amp;rdquo; in the &amp;ldquo;Data&amp;rdquo; folder and add Dbset the new class will just be created. Right-click on any of the folders in &amp;ldquo;Solution Explorer&amp;rdquo; and move the mouse to the &amp;ldquo;Add&amp;rdquo; button, then a new window with many options appears, click &amp;ldquo;New Scaffolded Item&amp;rdquo;.</description>
+      <description>In this article, we will create a custom registration form and add it to the application.
+Let&amp;rsquo;s Create a database first register form: Right-click on &amp;ldquo;Models&amp;rdquo; and move the mouse to the &amp;ldquo;Add&amp;rdquo; button, then a new window with many options appears, click &amp;ldquo;class&amp;hellip;&amp;rdquo;. Enter a name for your new class and click &amp;ldquo;Add&amp;rdquo;. Edit new properties in the class file. Open the file &amp;ldquo;ApplicationDbContext.cs&amp;rdquo; in the &amp;ldquo;Data&amp;rdquo; folder and add Dbset the new class will just be created.</description>
+    </item>
+    
+    <item>
+      <title>ASP.NET MVC?</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/asp.net_mvc/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/asp.net_mvc/</guid>
+      <description>ASP.NET Core is a web framework that can be used to build web applications and services. It provides a lot of features such as cross-platform support, high-performance, middleware, dependency injection, configuration, routing, and logging.
+On the other hand, ASP.NET Core MVC is an extension of ASP.NET Core that specifically focuses on building web applications using the Model-View-Controller (MVC) pattern. The MVC pattern is a design pattern that separates the application logic into three interconnected components: the Model (data layer), View (user interface), and Controller (application logic).</description>
     </item>
     
     <item>
@@ -56,6 +56,26 @@ And if you&amp;rsquo;re part of a large organization that needs the most advance
       <guid>https://lien-chu.github.io/IncubatorBlog.io/tips/asp.net_mvc/</guid>
       <description>ASP.NET Core is a web framework that can be used to build web applications and services. It provides a lot of features such as cross-platform support, high-performance, middleware, dependency injection, configuration, routing, and logging.
 On the other hand, ASP.NET Core MVC is an extension of ASP.NET Core that specifically focuses on building web applications using the Model-View-Controller (MVC) pattern. The MVC pattern is a design pattern that separates the application logic into three interconnected components: the Model (data layer), View (user interface), and Controller (application logic).</description>
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/getting_started/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/getting_started/</guid>
+      <description>Visual Studio is an intuitive and feature-rich Integrated Development Environment (IDE) that supports ASP.NET Core development on multiple platforms. It offers powerful debugging tools, advanced code completion, and navigation features, and seamless integration with Microsoft&amp;rsquo;s cloud platform, Azure. As a result, it greatly simplifies the development of ASP.NET Core applications, making it a popular choice among developers.
+Install Visual Studio: Go to the Visual Studio download page on the Microsoft website.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</guid>
+      <description>In this article, we will create our first application in Asp.Net Core MVC.
+Let&amp;rsquo;s Create our first project in Asp.Net Core MVC: Open Visual Studio and click on &amp;ldquo;Create a new project&amp;rdquo; from the start menu. Select the ASP.NET Core Web App (Model-View-Controller) template and click &amp;ldquo;Next&amp;rdquo;. Enter a name for your project and click &amp;ldquo;Next&amp;rdquo;. Select the &amp;ldquo;.NET 7.0(Standard Term Support)&amp;rdquo; or latest version framework and clic &amp;ldquo;Create&amp;rdquo;. The project is created and the &amp;ldquo;Solution Explorer&amp;rdquo; window is displayed.</description>
     </item>
     
   </channel>

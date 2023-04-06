@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asp.net core on .Net Programmer Incubator</title>
+    <link>https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net-core/</link>
+    <description>Recent content in Asp.net core on .Net Programmer Incubator</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net-core/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Change Database</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/change_database/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/change_database/</guid>
+      <description>Now that we have a custom registration form, we need to change the database if we want to save the data in a specific database. In this article, we will change the database created in one article to another database of ours.
+Let&amp;rsquo;s check the existing database in SQL Server Object Explorer: Go to &amp;ldquo;View&amp;rdquo; menu at the top of the screen, and click &amp;ldquo;SQL Server Object Explorer&amp;rdquo; from the dropdown menu to open SQL Server Object Explorer.</description>
+    </item>
+    
+  </channel>
+</rss>

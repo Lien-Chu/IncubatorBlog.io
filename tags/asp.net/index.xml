@@ -8,21 +8,23 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Appliction in Asp.Net Core MVC</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</guid>
-      <description>Let&amp;rsquo;s Create our first project in Asp.Net Core MVC: Open Visual Studio and click on &amp;ldquo;Create a new project&amp;rdquo; from the start menu. Select the ASP.NET Core Web App (Model-View-Controller) template and click &amp;ldquo;Next&amp;rdquo;. Enter a name for your project and click &amp;ldquo;Next&amp;rdquo;. Select the &amp;ldquo;.NET 7.0(Standard Term Support)&amp;rdquo; or latest version framework and clic &amp;ldquo;Create&amp;rdquo;. The project is created and the &amp;ldquo;Solution Explorer&amp;rdquo; window is displayed. close the &amp;ldquo;Welcome&amp;rdquo; window and click on Index.</description>
-    </item>
-    
-    <item>
-      <title>Register and Login</title>
+      <title>Register form</title>
       <link>https://lien-chu.github.io/IncubatorBlog.io/post/register_and_login/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lien-chu.github.io/IncubatorBlog.io/post/register_and_login/</guid>
-      <description>Let&amp;rsquo;s Create a database first register form: Right-click on &amp;ldquo;Models&amp;rdquo; and move the mouse to the &amp;ldquo;Add&amp;rdquo; button, then a new window with many options appears, click &amp;ldquo;class&amp;hellip;&amp;rdquo;. Enter a name for your new class and click &amp;ldquo;Add&amp;rdquo;. Edit new properties in the class file. Open the file &amp;ldquo;ApplicationDbContext.cs&amp;rdquo; in the &amp;ldquo;Data&amp;rdquo; folder and add Dbset the new class will just be created. Right-click on any of the folders in &amp;ldquo;Solution Explorer&amp;rdquo; and move the mouse to the &amp;ldquo;Add&amp;rdquo; button, then a new window with many options appears, click &amp;ldquo;New Scaffolded Item&amp;rdquo;.</description>
+      <description>In this article, we will create a custom registration form and add it to the application.
+Let&amp;rsquo;s Create a database first register form: Right-click on &amp;ldquo;Models&amp;rdquo; and move the mouse to the &amp;ldquo;Add&amp;rdquo; button, then a new window with many options appears, click &amp;ldquo;class&amp;hellip;&amp;rdquo;. Enter a name for your new class and click &amp;ldquo;Add&amp;rdquo;. Edit new properties in the class file. Open the file &amp;ldquo;ApplicationDbContext.cs&amp;rdquo; in the &amp;ldquo;Data&amp;rdquo; folder and add Dbset the new class will just be created.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</guid>
+      <description>In this article, we will create our first application in Asp.Net Core MVC.
+Let&amp;rsquo;s Create our first project in Asp.Net Core MVC: Open Visual Studio and click on &amp;ldquo;Create a new project&amp;rdquo; from the start menu. Select the ASP.NET Core Web App (Model-View-Controller) template and click &amp;ldquo;Next&amp;rdquo;. Enter a name for your project and click &amp;ldquo;Next&amp;rdquo;. Select the &amp;ldquo;.NET 7.0(Standard Term Support)&amp;rdquo; or latest version framework and clic &amp;ldquo;Create&amp;rdquo;. The project is created and the &amp;ldquo;Solution Explorer&amp;rdquo; window is displayed.</description>
     </item>
     
   </channel>

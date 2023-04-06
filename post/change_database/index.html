@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    <title>
+      
+      Change Database - .Net Programmer Incubator
+      
+		</title>
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+       
+    <link rel="stylesheet" type="text/css" href="/IncubatorBlog.io/assets/css/icons.css" />
+    <link rel="stylesheet" type="text/css" href="/IncubatorBlog.io/assets/css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="/IncubatorBlog.io/assets/css/icons.css" />
+    <link rel="stylesheet" type="text/css" href="/IncubatorBlog.io/assets/css/screen.css" />
+    
+    <link href="https://fonts.googleapis.com/css?family=Bree+Serif|Lato:100,100i,300,300i,400,400i,700,700i|Source+Code+Pro:300,400,500,700" rel="stylesheet">
+    
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="/IncubatorBlog.io/assets/bigfoot/dist/bigfoot.js"></script>
+    <link rel="stylesheet" type="text/css" href="/IncubatorBlog.io/assets/bigfoot/dist/bigfoot-number.css" />
+    <script type="text/javascript">
+        $.bigfoot();
+    </script>
+    
+    
+</head>
+
+    <body class="post-template">
+        <header class="main-header">
+	<div class="main-header-content">
+		<h1 class="blog-title">
+			<a href="/IncubatorBlog.io/">
+				
+           .Net Programmer Incubator
+				
+			</a>
+		</h1>
+		<h2 class="blog-description">Let us grow together</h2>
+	</div>
+
+	<div class="nav">
+    
+		
+      <a class="nav- " role="presentation" href="/IncubatorBlog.io/post/">All Posts</a>
+		
+      <a class="nav- " role="presentation" href="/IncubatorBlog.io/about_blog/">About Blog</a>
+		
+	</div>
+</header>
+
+        
+<main class="content" role="main">
+  <article class="post">
+    <header class="post-header">
+      
+        <img src="https://images.pexels.com/photos/3137068/pexels-photo-3137068.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=800"></img>
+      
+      <h2 class="post-title">Change Database</h2>
+      <section class="post-meta">
+        <time class="post-date">April 06, 2023</time>
+      </section>
+    </header>
+    <section class="post-content">
+      <p>Now that we have a custom registration form, we need to change the database if we want to save the data in a specific database. In this article, we will change the database created in one article to another database of ours.</p>
+<h5 id="lets-check-the-existing-database-in-sql-server-object-explorer">Let&rsquo;s check the existing database in SQL Server Object Explorer:</h5>
+<ul>
+<li>
+<p>Go to &ldquo;View&rdquo; menu at the top of the screen, and click &ldquo;SQL Server Object Explorer&rdquo; from the dropdown menu to open SQL Server Object Explorer.
+<img src="/IncubatorBlog.io/images/change_database/sql_server_object_explorer.png" alt="SQL Server Object Explorer"></p>
+</li>
+<li>
+<p>Click on the &ldquo;SQL Server&rdquo; &gt; &ldquo;(localdb)\MSSQLLocalDB&rdquo; &gt; &ldquo;Databases&rdquo; &gt; &ldquo;aspnet-yourProjectName&rdquo; then right-click &ldquo;Properties&rdquo; and you can see the value of &ldquo;Connection String&rdquo; is match with data in &ldquo;appsettings.json&rdquo; file in &ldquo;Solution Explorer&rdquo;.
+<img src="/IncubatorBlog.io/images/change_database/connection_string.png" alt="Connection String">
+<img src="/IncubatorBlog.io/images/change_database/appsettings_json.png" alt="Connection String"></p>
+</li>
+</ul>
+<h5 id="lets-change-database-to-the-one-you-mant">Let&rsquo;s change database to the one you mant:</h5>
+<ul>
+<li>
+<p>All you need to do is change the value of &ldquo;Connection String&rdquo; in &ldquo;appsettings.json&rdquo; file to the value of &ldquo;Connection String&rdquo; of the database you want to change to.
+<img src="/IncubatorBlog.io/images/change_database/change_connection_string.png" alt="Connection String"></p>
+</li>
+<li>
+<p>Then update the new database.
+<img src="/IncubatorBlog.io/images/register/update_database_.png" alt="update-database"></p>
+</li>
+</ul>
+<pre tabindex="0"><code>PM&gt; Update-Database
+</code></pre><p><em>Please be aware that if there is a password included in your connection string, you may need to manually re-enter the password after copying and pasting the string.</em></p>
+<p><strong>Congratulations, you have Changed database      ;)</strong></p>
+<hr>
+
+    </section>
+    <footer class="post-footer">
+      <section class="tags post-meta">
+        Tagged
+        <a href="https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net-core/">Asp.net core</a>
+          <a href="https://lien-chu.github.io/IncubatorBlog.io/tags/database/">Database</a>
+          
+      </section>
+    </footer>
+  </article>
+</main>
+
+        <footer class="site-footer">
+  
+  
+  
+  <section class="copyright">&copy; 2023 .Net Programmer Incubator</section>
+  
+</footer>
+
+
+
+    </body>
+</html>
