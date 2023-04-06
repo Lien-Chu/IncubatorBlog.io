@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bootswatch on .Net Programmer Incubator</title>
+    <link>https://lien-chu.github.io/IncubatorBlog.io/tags/bootswatch/</link>
+    <description>Recent content in Bootswatch on .Net Programmer Incubator</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/tags/bootswatch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s style up our appliction with Bootswatch!</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/bootswatch/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/bootswatch/</guid>
+      <description>Now that we have our application up and running, let&amp;rsquo;s style it up with Bootswatch!
+Here are the steps you can follow to add Bootswatch to your application: Go to the Bootswatch website (https://bootswatch.com/) and choose a theme that you like. Click on the type of file button to download the CSS file for the theme. Rename the existing original file to other name. Copy the CSS file into your application&amp;rsquo;s CSS folder.</description>
+    </item>
+    
+  </channel>
+</rss>

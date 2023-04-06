@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    <title>
+      
+      Register form - .Net Programmer Incubator
+      
+		</title>
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+       
+    <link rel="stylesheet" type="text/css" href="/IncubatorBlog.io/assets/css/icons.css" />
+    <link rel="stylesheet" type="text/css" href="/IncubatorBlog.io/assets/css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="/IncubatorBlog.io/assets/css/icons.css" />
+    <link rel="stylesheet" type="text/css" href="/IncubatorBlog.io/assets/css/screen.css" />
+    
+    <link href="https://fonts.googleapis.com/css?family=Bree+Serif|Lato:100,100i,300,300i,400,400i,700,700i|Source+Code+Pro:300,400,500,700" rel="stylesheet">
+    
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="/IncubatorBlog.io/assets/bigfoot/dist/bigfoot.js"></script>
+    <link rel="stylesheet" type="text/css" href="/IncubatorBlog.io/assets/bigfoot/dist/bigfoot-number.css" />
+    <script type="text/javascript">
+        $.bigfoot();
+    </script>
+    
+    
+</head>
+
+    <body class="post-template">
+        <header class="main-header">
+	<div class="main-header-content">
+		<h1 class="blog-title">
+			<a href="/IncubatorBlog.io/">
+				
+           .Net Programmer Incubator
+				
+			</a>
+		</h1>
+		<h2 class="blog-description">Let us grow together</h2>
+	</div>
+
+	<div class="nav">
+    
+		
+      <a class="nav- " role="presentation" href="/IncubatorBlog.io/post/">All Posts</a>
+		
+      <a class="nav- " role="presentation" href="/IncubatorBlog.io/about_blog/">About Blog</a>
+		
+	</div>
+</header>
+
+        
+<main class="content" role="main">
+  <article class="post">
+    <header class="post-header">
+      
+        <img src="https://images.pexels.com/photos/136348/pexels-photo-136348.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=800"></img>
+      
+      <h2 class="post-title">Register form</h2>
+      <section class="post-meta">
+        <time class="post-date">April 04, 2023</time>
+      </section>
+    </header>
+    <section class="post-content">
+      <p>In this article, we will create a custom registration form and add it to the application.</p>
+<h5 id="lets-create-a-database-first-register-form">Let&rsquo;s Create a database first register form:</h5>
+<ul>
+<li>
+<p>Right-click on &ldquo;Models&rdquo; and move the mouse to the &ldquo;Add&rdquo; button, then a new window with many options appears, click &ldquo;class&hellip;&rdquo;.
+<img src="/IncubatorBlog.io/images/register/add_new_class.png" alt="New Class"></p>
+</li>
+<li>
+<p>Enter a name for your new class and click &ldquo;Add&rdquo;.
+<img src="/IncubatorBlog.io/images/register/class_name.png" alt="Add Class"></p>
+</li>
+<li>
+<p>Edit new properties in the class file.
+<img src="/IncubatorBlog.io/images/register/add_properties1.png" alt="Add Class">
+<img src="/IncubatorBlog.io/images/register/add_properties2.png" alt="Add Class"></p>
+</li>
+<li>
+<p>Open the file &ldquo;ApplicationDbContext.cs&rdquo; in the &ldquo;Data&rdquo; folder and add Dbset the new class will just be created.
+<img src="/IncubatorBlog.io/images/register/add_dbset.png" alt="Add Dbset"></p>
+</li>
+<li>
+<p>Right-click on any of the folders in &ldquo;Solution Explorer&rdquo; and move the mouse to the &ldquo;Add&rdquo; button, then a new window with many options appears, click &ldquo;New Scaffolded Item&rdquo;.
+<img src="/IncubatorBlog.io/images/register/new_scaffolded.png" alt="New Scaffolded"></p>
+</li>
+<li>
+<p>Choose &ldquo;Identity&rdquo; and click &ldquo;Add&rdquo;.
+<img src="/IncubatorBlog.io/images/register/Identity.png" alt="Add Identity"></p>
+</li>
+<li>
+<p>Select the file of features that you need or choose &ldquo;Override all files&rdquo; to select all, choose &ldquo;Data context class&rdquo; to &ldquo;ApplicationDbContext&rdquo; (Make sure it matches the one added Dbset earlier) and click &ldquo;Add&rdquo;.
+<img src="/IncubatorBlog.io/images/register/add_identity.png" alt="Add Identity"></p>
+</li>
+<li>
+<p>Open &ldquo;Package Manager Console&rdquo; from the &ldquo;Tools&rdquo; menu at the top of the screen, and enter the following command to add new migration and name it you like then press &ldquo;Enter&rdquo;.
+<img src="/IncubatorBlog.io/images/register/add_migration.png" alt="Add New Migration"></p>
+</li>
+</ul>
+<pre tabindex="0"><code>PM&gt; Add-Migration &#34;NewMigration&#34;
+</code></pre><ul>
+<li>Enter the following command to update the database and press &ldquo;Enter&rdquo;.
+<img src="/IncubatorBlog.io/images/register/update_database.png" alt="update-database"></li>
+</ul>
+<pre tabindex="0"><code>PM&gt; Update-Database
+</code></pre><ul>
+<li>
+<p>Let&rsquo;s run the application and see the result.
+<img src="/IncubatorBlog.io/images/register/run_application-1.png" alt="run_application">
+<img src="/IncubatorBlog.io/images/register/run_application-2.png" alt="run_application">
+<img src="/IncubatorBlog.io/images/register/run_application-3.png" alt="run_application">
+<img src="/IncubatorBlog.io/images/register/rigter_confirmation.png" alt="run_application">
+<img src="/IncubatorBlog.io/images/register/confirm_email.png" alt="run_application"></p>
+</li>
+<li>
+<p>Open &ldquo;Register.cshtml.cs&rdquo; file in the &ldquo;Areas&rdquo; &gt; &ldquo;Identity&rdquo; &gt; &ldquo;Pages &quot; &gt; &quot; Account&rdquo; &gt; &ldquo;Manage&rdquo; folder.
+<img src="/IncubatorBlog.io/images/register/edit_register-1.png" alt="Edit Register"></p>
+</li>
+<li>
+<p>Add the properties we add to the class file earlier in the &ldquo;InputModel&rdquo;.
+<img src="/IncubatorBlog.io/images/register/edit_register-2.png" alt="Edit Register"></p>
+</li>
+<li>
+<p>Modify the class of &ldquo;CreateUser&rdquo; method to the class with add the new properties.
+<img src="/IncubatorBlog.io/images/register/edit_register-3.png" alt="Edit Register">
+<img src="/IncubatorBlog.io/images/register/edit_register-4.png" alt="Edit Register"></p>
+</li>
+<li>
+<p>Set these input values to the new properties we created.
+<img src="/IncubatorBlog.io/images/register/edit_register-5.png" alt="Edit Register"></p>
+</li>
+<li>
+<p>Open &ldquo;Register.cshtml&rdquo; file to add the input model to the Register form.
+<img src="/IncubatorBlog.io/images/register/register_form-1.png" alt="Edit Register">
+<img src="/IncubatorBlog.io/images/register/register_form-2.png" alt="Edit Register"></p>
+</li>
+<li>
+<p>Before we run the application and see the result, let&rsquo;s update the database again.
+<img src="/IncubatorBlog.io/images/register/update_database_.png" alt="update-database"></p>
+</li>
+<li>
+<p>Let&rsquo;s run the application and see the result again.
+<img src="/IncubatorBlog.io/images/register/run_application-4.png" alt="run_application">
+<img src="/IncubatorBlog.io/images/register/run_application-5.png" alt="run_application">
+<img src="/IncubatorBlog.io/images/register/rigter_confirmation.png" alt="run_application">
+<img src="/IncubatorBlog.io/images/register/confirm_email.png" alt="run_application"></p>
+</li>
+</ul>
+<h5 id="congratulations-you-have-created-a-custom-signup-form-nbsp-nbsp--">Congratulations, you have created a custom signup form      ;)</h5>
+<hr>
+
+    </section>
+    <footer class="post-footer">
+      <section class="tags post-meta">
+        Tagged
+        <a href="https://lien-chu.github.io/IncubatorBlog.io/tags/register-form/">Register form</a>
+          <a href="https://lien-chu.github.io/IncubatorBlog.io/tags/.net/">.Net</a>
+          <a href="https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net/">Asp.Net</a>
+          
+      </section>
+    </footer>
+  </article>
+</main>
+
+        <footer class="site-footer">
+  
+  
+  
+  <section class="copyright">&copy; 2023 .Net Programmer Incubator</section>
+  
+</footer>
+
+
+
+    </body>
+</html>

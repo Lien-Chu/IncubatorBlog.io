@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Register form on .Net Programmer Incubator</title>
+    <link>https://lien-chu.github.io/IncubatorBlog.io/tags/register-form/</link>
+    <description>Recent content in Register form on .Net Programmer Incubator</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/tags/register-form/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Register form</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/register/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/register/</guid>
+      <description>In this article, we will create a custom registration form and add it to the application.
+Let&amp;rsquo;s Create a database first register form: Right-click on &amp;ldquo;Models&amp;rdquo; and move the mouse to the &amp;ldquo;Add&amp;rdquo; button, then a new window with many options appears, click &amp;ldquo;class&amp;hellip;&amp;rdquo;. Enter a name for your new class and click &amp;ldquo;Add&amp;rdquo;. Edit new properties in the class file. Open the file &amp;ldquo;ApplicationDbContext.cs&amp;rdquo; in the &amp;ldquo;Data&amp;rdquo; folder and add Dbset the new class will just be created.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Let&#39;s style up our appliction with Bootswatch!</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/bootswatch/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/bootswatch/</guid>
+      <description>Now that we have our application up and running, let&amp;rsquo;s style it up with Bootswatch!
+Here are the steps you can follow to add Bootswatch to your application: Go to the Bootswatch website (https://bootswatch.com/) and choose a theme that you like. Click on the type of file button to download the CSS file for the theme. Rename the existing original file to other name. Copy the CSS file into your application&amp;rsquo;s CSS folder.</description>
+    </item>
+    
+    <item>
       <title>Change Database</title>
       <link>https://lien-chu.github.io/IncubatorBlog.io/post/change_database/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
@@ -19,10 +29,10 @@ Let&amp;rsquo;s check the existing database in SQL Server Object Explorer: Go to
     
     <item>
       <title>Register form</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/post/register_and_login/</link>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/register/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/register_and_login/</guid>
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/register/</guid>
       <description>In this article, we will create a custom registration form and add it to the application.
 Let&amp;rsquo;s Create a database first register form: Right-click on &amp;ldquo;Models&amp;rdquo; and move the mouse to the &amp;ldquo;Add&amp;rdquo; button, then a new window with many options appears, click &amp;ldquo;class&amp;hellip;&amp;rdquo;. Enter a name for your new class and click &amp;ldquo;Add&amp;rdquo;. Edit new properties in the class file. Open the file &amp;ldquo;ApplicationDbContext.cs&amp;rdquo; in the &amp;ldquo;Data&amp;rdquo; folder and add Dbset the new class will just be created.</description>
     </item>
