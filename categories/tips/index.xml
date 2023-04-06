@@ -9,16 +9,6 @@
     <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/categories/tips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ASP.NET MVC?</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/asp.net_mvc/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/asp.net_mvc/</guid>
-      <description>ASP.NET Core is a web framework that can be used to build web applications and services. It provides a lot of features such as cross-platform support, high-performance, middleware, dependency injection, configuration, routing, and logging.
-On the other hand, ASP.NET Core MVC is an extension of ASP.NET Core that specifically focuses on building web applications using the Model-View-Controller (MVC) pattern. The MVC pattern is a design pattern that separates the application logic into three interconnected components: the Model (data layer), View (user interface), and Controller (application logic).</description>
-    </item>
-    
-    <item>
-      <title>ASP.NET MVC?</title>
       <link>https://lien-chu.github.io/IncubatorBlog.io/tips/asp.net_mvc/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       

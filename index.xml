@@ -6,7 +6,7 @@
     <description>Recent content on .Net Programmer Incubator</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Blog</title>
       <link>https://lien-chu.github.io/IncubatorBlog.io/about_blog/</link>
@@ -40,13 +40,12 @@ And if you&amp;rsquo;re part of a large organization that needs the most advance
     </item>
     
     <item>
-      <title>ASP.NET MVC?</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/asp.net_mvc/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <title>Register and Login</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/register_and_login/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/asp.net_mvc/</guid>
-      <description>ASP.NET Core is a web framework that can be used to build web applications and services. It provides a lot of features such as cross-platform support, high-performance, middleware, dependency injection, configuration, routing, and logging.
-On the other hand, ASP.NET Core MVC is an extension of ASP.NET Core that specifically focuses on building web applications using the Model-View-Controller (MVC) pattern. The MVC pattern is a design pattern that separates the application logic into three interconnected components: the Model (data layer), View (user interface), and Controller (application logic).</description>
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/register_and_login/</guid>
+      <description>Let&amp;rsquo;s Create a database first register form: Right-click on &amp;ldquo;Models&amp;rdquo; and move the mouse to the &amp;ldquo;Add&amp;rdquo; button, then a new window with many options appears, click &amp;ldquo;class&amp;hellip;&amp;rdquo;. Enter a name for your new class and click &amp;ldquo;Add&amp;rdquo;. Edit new properties in the class file. Open the file &amp;ldquo;ApplicationDbContext.cs&amp;rdquo; in the &amp;ldquo;Data&amp;rdquo; folder and add Dbset the new class will just be created. Right-click on any of the folders in &amp;ldquo;Solution Explorer&amp;rdquo; and move the mouse to the &amp;ldquo;Add&amp;rdquo; button, then a new window with many options appears, click &amp;ldquo;New Scaffolded Item&amp;rdquo;.</description>
     </item>
     
     <item>
