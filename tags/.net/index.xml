@@ -19,25 +19,5 @@ Bootswatch is a great way to add style and visual appeal to Bootstrap projects w
 Now that we have our application up and running, let&amp;rsquo;s style it up with Bootswatch!</description>
     </item>
     
-    <item>
-      <title>Register form</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/post/register/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/register/</guid>
-      <description>In this article, we will create a custom registration form and add it to the application.
-Let&amp;rsquo;s Create a database first register form: Right-click on &amp;ldquo;Models&amp;rdquo; and move the mouse to the &amp;ldquo;Add&amp;rdquo; button, then a new window with many options appears, click &amp;ldquo;class&amp;hellip;&amp;rdquo;. Enter a name for your new class and click &amp;ldquo;Add&amp;rdquo;. Edit new properties in the class file. Open the file &amp;ldquo;ApplicationDbContext.cs&amp;rdquo; in the &amp;ldquo;Data&amp;rdquo; folder and add Dbset the new class will just be created.</description>
-    </item>
-    
-    <item>
-      <title>Hello World!</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</guid>
-      <description>In this article, we will create our first application in Asp.Net Core MVC.
-Let&amp;rsquo;s Create our first project in Asp.Net Core MVC: Open Visual Studio and click on &amp;ldquo;Create a new project&amp;rdquo; from the start menu. Select the ASP.NET Core Web App (Model-View-Controller) template and click &amp;ldquo;Next&amp;rdquo;. Enter a name for your project and click &amp;ldquo;Next&amp;rdquo;. Select the &amp;ldquo;.NET 7.0(Standard Term Support)&amp;rdquo; or latest version framework and clic &amp;ldquo;Create&amp;rdquo;. The project is created and the &amp;ldquo;Solution Explorer&amp;rdquo; window is displayed.</description>
-    </item>
-    
   </channel>
 </rss>

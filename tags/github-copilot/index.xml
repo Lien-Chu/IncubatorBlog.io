@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub Copilot on .Net Programmer Incubator</title>
+    <link>https://lien-chu.github.io/IncubatorBlog.io/tags/github-copilot/</link>
+    <description>Recent content in GitHub Copilot on .Net Programmer Incubator</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/tags/github-copilot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitHub Copilot</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/github_copilot/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/github_copilot/</guid>
+      <description>GitHub Copilot is an artificial intelligence (AI) powered code assistant that is built on OpenAI&amp;rsquo;s GPT (Generative Pre-trained Transformer) model. It is designed to help developers write code more efficiently by generating code suggestions based on the context of what the developer is working on. GitHub Copilot is currently available as a preview for Visual Studio Code, and it is free to use. GitHub Copilot can be used as a plugin for Visual Studio Code, and it works by analyzing the code in real-time, along with the comments and the context of the code, and suggests code snippets and functions that are relevant to the developer&amp;rsquo;s task.</description>
+    </item>
+    
+  </channel>
+</rss>

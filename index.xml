@@ -41,6 +41,15 @@ Let&amp;rsquo;s check the existing database in SQL Server Object Explorer: Go to
     </item>
     
     <item>
+      <title>GitHub Copilot</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/github_copilot/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/github_copilot/</guid>
+      <description>GitHub Copilot is an artificial intelligence (AI) powered code assistant that is built on OpenAI&amp;rsquo;s GPT (Generative Pre-trained Transformer) model. It is designed to help developers write code more efficiently by generating code suggestions based on the context of what the developer is working on. GitHub Copilot is currently available as a preview for Visual Studio Code, and it is free to use. GitHub Copilot can be used as a plugin for Visual Studio Code, and it works by analyzing the code in real-time, along with the comments and the context of the code, and suggests code snippets and functions that are relevant to the developer&amp;rsquo;s task.</description>
+    </item>
+    
+    <item>
       <title>Register form</title>
       <link>https://lien-chu.github.io/IncubatorBlog.io/post/register/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
@@ -56,16 +65,6 @@ Let&amp;rsquo;s Create a database first register form: Right-click on &amp;ldquo
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lien-chu.github.io/IncubatorBlog.io/post/asp.net_mvc/</guid>
-      <description>ASP.NET Core is a web framework that can be used to build web applications and services. It provides a lot of features such as cross-platform support, high-performance, middleware, dependency injection, configuration, routing, and logging.
-On the other hand, ASP.NET Core MVC is an extension of ASP.NET Core that specifically focuses on building web applications using the Model-View-Controller (MVC) pattern. The MVC pattern is a design pattern that separates the application logic into three interconnected components: the Model (data layer), View (user interface), and Controller (application logic).</description>
-    </item>
-    
-    <item>
-      <title>ASP.NET MVC?</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/tips/asp.net_mvc/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/tips/asp.net_mvc/</guid>
       <description>ASP.NET Core is a web framework that can be used to build web applications and services. It provides a lot of features such as cross-platform support, high-performance, middleware, dependency injection, configuration, routing, and logging.
 On the other hand, ASP.NET Core MVC is an extension of ASP.NET Core that specifically focuses on building web applications using the Model-View-Controller (MVC) pattern. The MVC pattern is a design pattern that separates the application logic into three interconnected components: the Model (data layer), View (user interface), and Controller (application logic).</description>
     </item>

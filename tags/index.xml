@@ -26,11 +26,11 @@
     </item>
     
     <item>
-      <title>Asp.net core</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net-core/</link>
+      <title>ASP.NET Core MVC</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net-core-mvc/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net-core/</guid>
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net-core-mvc/</guid>
       <description></description>
     </item>
     
@@ -53,6 +53,15 @@
     </item>
     
     <item>
+      <title>GitHub Copilot</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/github-copilot/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/github-copilot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Style</title>
       <link>https://lien-chu.github.io/IncubatorBlog.io/tags/style/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
@@ -62,20 +71,29 @@
     </item>
     
     <item>
+      <title>Tips</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/tips/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Login</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/login/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/login/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Register form</title>
       <link>https://lien-chu.github.io/IncubatorBlog.io/tags/register-form/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/register-form/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ASP.NET Core MVC</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net-core-mvc/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net-core-mvc/</guid>
       <description></description>
     </item>
     
@@ -94,6 +112,15 @@
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/getting-started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/tags/hello-world/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/tags/hello-world/</guid>
       <description></description>
     </item>
     

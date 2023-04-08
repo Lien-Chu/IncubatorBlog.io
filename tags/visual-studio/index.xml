@@ -17,15 +17,5 @@
 Install Visual Studio: Go to the Visual Studio download page on the Microsoft website.</description>
     </item>
     
-    <item>
-      <title>Hello World!</title>
-      <link>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/hello_world/</guid>
-      <description>In this article, we will create our first application in Asp.Net Core MVC.
-Let&amp;rsquo;s Create our first project in Asp.Net Core MVC: Open Visual Studio and click on &amp;ldquo;Create a new project&amp;rdquo; from the start menu. Select the ASP.NET Core Web App (Model-View-Controller) template and click &amp;ldquo;Next&amp;rdquo;. Enter a name for your project and click &amp;ldquo;Next&amp;rdquo;. Select the &amp;ldquo;.NET 7.0(Standard Term Support)&amp;rdquo; or latest version framework and clic &amp;ldquo;Create&amp;rdquo;. The project is created and the &amp;ldquo;Solution Explorer&amp;rdquo; window is displayed.</description>
-    </item>
-    
   </channel>
 </rss>
