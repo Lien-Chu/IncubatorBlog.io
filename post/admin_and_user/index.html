@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    <title>
+      
+      Create Admin &amp; User Role - .Net Programmer Incubator
+      
+		</title>
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <link rel="stylesheet" type="text/css" href="/IncubatorBlog.io/assets/css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="/IncubatorBlog.io/assets/css/icons.css" />
+    <link rel="stylesheet" type="text/css" href="/IncubatorBlog.io/assets/css/screen.css" />
+    
+    <link href="https://fonts.googleapis.com/css?family=Bree+Serif|Lato:100,100i,300,300i,400,400i,700,700i|Source+Code+Pro:300,400,500,700" rel="stylesheet">
+    
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="/IncubatorBlog.io/assets/bigfoot/dist/bigfoot.js"></script>
+    <link rel="stylesheet" type="text/css" href="/IncubatorBlog.io/assets/bigfoot/dist/bigfoot-number.css" />
+    <script type="text/javascript">
+        $.bigfoot();
+    </script>
+    
+    
+</head>
+
+    <body class="post-template">
+        <header class="main-header">
+	<div class="main-header-content">
+		<h1 class="blog-title">
+			<a href="/IncubatorBlog.io/">
+				
+           .Net Programmer Incubator
+				
+			</a>
+		</h1>
+		<h2 class="blog-description">Let us grow together</h2>
+	</div>
+
+	<div class="nav">
+    
+		
+      <a class="nav- " role="presentation" href="/IncubatorBlog.io/post/">All Posts</a>
+		
+      <a class="nav- " role="presentation" href="/IncubatorBlog.io/tags/asp.net-core-mvc/">ASP.NET Core MVC</a>
+		
+      <a class="nav- " role="presentation" href="/IncubatorBlog.io/tags/tips/">Tips</a>
+		
+      <a class="nav- " role="presentation" href="/IncubatorBlog.io/about_blog/">About Blog</a>
+		
+	</div>
+</header>
+
+        
+<main class="content" role="main">
+  <article class="post">
+    <header class="post-header">
+      
+        <img src="https://images.pexels.com/photos/1033142/pexels-photo-1033142.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=900"></img>
+      
+      <h2 class="post-title">Create Admin &amp; User Role</h2>
+      <section class="post-meta">
+        <time class="post-date">April 12, 2023</time>
+      </section>
+    </header>
+    <section class="post-content">
+      <h5 id="what-are-the-admin-and-user-roles-in-aspnet-used-for">What are the Admin and User roles in ASP.NET used for?</h5>
+<p>The Admin and User roles are used to control access to different areas of a web application based on the user&rsquo;s role.</p>
+<p>The Admin role typically has access to all areas of the application, including sensitive administrative functions such as user management, system settings, and other restricted areas.</p>
+<p>The User role, on the other hand, typically has limited access to the application and can only perform certain actions or access certain areas of the application. For example, a User may only be able to view or edit their own profile information, view public content, or submit requests through the application.</p>
+<p>By setting up these roles can control access to sensitive information and ensure that users only have access to the parts of the application that they are authorized to use. This helps to enhance security and protect against unauthorized access or misuse of the application.</p>
+<ul>
+<li>
+<p>Add a new folder to the project called &ldquo;Constans&rdquo; and add a new class called &ldquo;Roles.cs&rdquo;
+<img src="/IncubatorBlog.io/images/admin_&amp;_user/add_constans_folder.png" alt="Constans Folder">
+<img src="/IncubatorBlog.io/images/admin_&amp;_user/add_roles_class.png" alt="Roles.cs"></p>
+</li>
+<li>
+<p>Add the following code to the Roles.cs class:
+<img src="/IncubatorBlog.io/images/admin_&amp;_user/add-new_roles.png" alt="Roles.cs"></p>
+</li>
+<li>
+<p>Add a new class to the &ldquo;Data&rdquo; folder called &ldquo;Dbseeder.cs&rdquo;
+<img src="/IncubatorBlog.io/images/admin_&amp;_user/add_dbseeder.png" alt="Dbseeder Folder"></p>
+</li>
+<li>
+<p>Add the following code to the &ldquo;Dbseeder.cs&rdquo; class to create the Admin role set the password for the Admin.
+<img src="/IncubatorBlog.io/images/admin_&amp;_user/dbseeder.png" alt="Dbseeder"></p>
+</li>
+<li>
+<p>Assing roles to users in &ldquo;Register.cshtml.cs&rdquo; class
+<img src="/IncubatorBlog.io/images/admin_&amp;_user/assing_role_to_user.png" alt="Register.cshtml.cs"></p>
+</li>
+<li>
+<p>Modify Identity configuration in &ldquo;Program.cs&rdquo; class
+<img src="/IncubatorBlog.io/images/admin_&amp;_user/modify_config-1.png" alt="Program.cs">
+<img src="/IncubatorBlog.io/images/admin_&amp;_user/modify_config-2.png" alt="Program.cs"></p>
+</li>
+<li>
+<p>Modify user link in &ldquo;Shared/_LoginPartial.cshtml/&rdquo; class
+<img src="/IncubatorBlog.io/images/admin_&amp;_user/modify_user_link-1.png" alt="_LoginPartial.cshtml">
+<img src="/IncubatorBlog.io/images/admin_&amp;_user/modify_user_link-2.png" alt="_LoginPartial.cshtml"></p>
+</li>
+<li>
+<p>Let&rsquo;s test the application to see if the admin role is logged in properly.
+<img src="/IncubatorBlog.io/images/admin_&amp;_user/admin_login-1.png" alt="Admin Role">
+<img src="/IncubatorBlog.io/images/admin_&amp;_user/admin_login-2.png" alt="Admin Role"></p>
+</li>
+<li>
+<p>Let&rsquo;s test the application to see if the user role is logged in properly.
+<img src="/IncubatorBlog.io/images/admin_&amp;_user/user_login-1.png" alt="User Role">
+<img src="/IncubatorBlog.io/images/admin_&amp;_user/user_login-2.png" alt="User Role"></p>
+</li>
+<li>
+<p>Great! We have successfully created the Admin and User roles in ASP.NET Core MVC. Now we can comment out the code only use once for creating the Admin role in the &ldquo;Program.cs&rdquo; file.
+<img src="/IncubatorBlog.io/images/admin_&amp;_user/comment_code.png" alt="Program.cs"></p>
+</li>
+</ul>
+<h5 id="congratulations-you-have-changed-admin--user-role-nbsp-nbsp--">Congratulations, you have Changed Admin &amp; User Role      ;)</h5>
+<hr>
+<p><em>In this article, we refer to Ravindra Devrani&rsquo;s Youtube channel</em></p>
+<p><a href="https://youtu.be/Z8Vx3bn8AR8">Shopping Cart project in .net core mvc (with authentication) | part 2</a>*</p>
+<hr>
+
+    </section>
+    <footer class="post-footer">
+      <section class="tags post-meta">
+        Tagged
+        <a href="https://lien-chu.github.io/IncubatorBlog.io/tags/admin-role/">Admin Role</a>
+          <a href="https://lien-chu.github.io/IncubatorBlog.io/tags/asp.net-core-mvc/">ASP.NET CORE MVC</a>
+          
+      </section>
+    </footer>
+  </article>
+</main>
+
+        <footer class="site-footer">
+  
+  
+  
+  <section class="copyright">&copy; 2023 .Net Programmer Incubator</section>
+  <section class="poweredby"><a href="https://github.com/nirocfz/arabica">Arabica</a> theme by Sean Lunsford. Published with <a href="https://gohugo.io">Hugo</a>.</section>
+</footer>
+
+
+
+    </body>
+</html>

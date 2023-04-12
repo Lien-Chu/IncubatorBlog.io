@@ -6,7 +6,18 @@
     <description>Recent content in Posts on .Net Programmer Incubator</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lien-chu.github.io/IncubatorBlog.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create Admin &amp; User Role</title>
+      <link>https://lien-chu.github.io/IncubatorBlog.io/post/admin_and_user/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lien-chu.github.io/IncubatorBlog.io/post/admin_and_user/</guid>
+      <description>What are the Admin and User roles in ASP.NET used for? The Admin and User roles are used to control access to different areas of a web application based on the user&amp;rsquo;s role.
+The Admin role typically has access to all areas of the application, including sensitive administrative functions such as user management, system settings, and other restricted areas.
+The User role, on the other hand, typically has limited access to the application and can only perform certain actions or access certain areas of the application.</description>
+    </item>
+    
     <item>
       <title>Let&#39;s style up our appliction with Bootswatch!</title>
       <link>https://lien-chu.github.io/IncubatorBlog.io/post/bootswatch/</link>
